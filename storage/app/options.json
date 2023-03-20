@@ -1,0 +1,1359 @@
+{
+    "options": [
+        {
+            "type": "base",
+            "area": "engine",
+            "name": "2.0 TDI",
+            "description": "Highline"
+        },
+        {
+            "type": "base",
+            "area": "engine",
+            "name": "2.0 TDI",
+            "description": "Startline with Business Pack"
+        },
+        {
+            "type": "base",
+            "area": "wheelbase",
+            "name": "SWB",
+            "description": "Short Wheelbase"
+        },
+        {
+            "type": "base",
+            "area": "wheelbase",
+            "name": "LWB",
+            "description": "Long Wheelbase"
+        },
+        {
+            "type": "base",
+            "area": "horsepower",
+            "name": "110 BHP"
+        },
+        {
+            "type": "base",
+            "area": "horsepower",
+            "name": "150 BHP"
+        },
+        {
+            "type": "base",
+            "area": "horsepower",
+            "name": "+ 150BHP"
+        },
+        {
+            "type": "base",
+            "area": "motion",
+            "name": "4 Motion"
+        },
+        {
+            "type": "base",
+            "area": "transmission",
+            "name": "Manual"
+        },
+        {
+            "type": "base",
+            "area": "transmission",
+            "name": "Automatic"
+        },
+        {
+            "type": "base",
+            "area": "rearDoor",
+            "name": "Barn Door"
+        },
+        {
+            "type": "base",
+            "area": "rearDoor",
+            "name": "Tailgate"
+        },
+        {
+            "type": "base",
+            "area": "frontSeat",
+            "name": "Single Passenger Seat"
+        },
+        {
+            "type": "base",
+            "area": "frontSeat",
+            "name": "Twin Bench Seat"
+        },
+        {
+            "type": "paintwork",
+            "area": "solid",
+            "name": "Sky Blue",
+            "swatch": "sky_blue",
+            "image": "sky_blue"
+        },
+        {
+            "type": "paintwork",
+            "area": "solid",
+            "name": "Flame Red",
+            "swatch": "flame_red",
+            "image": "flame_red"
+        },
+        {
+            "type": "paintwork",
+            "area": "solid",
+            "name": "Fir Green",
+            "swatch": "fir_green",
+            "image": "fir_green"
+        },
+        {
+            "type": "paintwork",
+            "area": "solid",
+            "name": "Sunny Yellow",
+            "swatch": "sunny_yellow",
+            "image": "sunny_yellow"
+        },
+        {
+            "type": "paintwork",
+            "area": "solid",
+            "name": "Flannel Grey",
+            "swatch": "flannel_grey",
+            "image": "flannel_grey"
+        },
+        {
+            "type": "paintwork",
+            "area": "solid",
+            "name": "Blue Lilac",
+            "swatch": "blue_lilac",
+            "image": "blue_lilac"
+        },
+        {
+            "type": "paintwork",
+            "area": "solid",
+            "name": "Danish Blue",
+            "swatch": "danish_blue",
+            "image": "danish_blue"
+        },
+        {
+            "type": "paintwork",
+            "area": "solid",
+            "name": "Lime Green",
+            "swatch": "lime_green",
+            "image": "lime_green"
+        },
+        {
+            "type": "paintwork",
+            "area": "solid",
+            "name": "Industrial Green",
+            "swatch": "industrial_green",
+            "image": "industrial_green"
+        },
+        {
+            "type": "paintwork",
+            "area": "solid",
+            "name": "Stone Blue",
+            "swatch": "stone_blue",
+            "image": "stone_blue"
+        },
+        {
+            "type": "paintwork",
+            "area": "solid",
+            "name": "CANDY WHITE",
+            "swatch": "candy_white",
+            "image": "candy_white"
+        },
+        {
+            "type": "paintwork",
+            "area": "solid",
+            "name": "PURE GREY",
+            "swatch": "pure_grey",
+            "image": "pure_grey"
+        },
+        {
+            "type": "paintwork",
+            "area": "solid",
+            "name": "ASCOT GREY",
+            "swatch": "ascot_grey",
+            "image": "ascot_grey"
+        },
+        {
+            "type": "paintwork",
+            "area": "solid",
+            "name": "ICE BLUE",
+            "swatch": "ice_blue",
+            "image": "ice_blue"
+        },
+        {
+            "type": "paintwork",
+            "area": "solid",
+            "name": "BRIGHT ORANGE",
+            "swatch": "bright_orange",
+            "image": "bright_orange"
+        },
+        {
+            "type": "paintwork",
+            "area": "solid",
+            "name": "CHROME YELLOW",
+            "swatch": "chrome_yellow",
+            "image": "chrome_yellow"
+        },
+        {
+            "type": "paintwork",
+            "area": "metallic",
+            "name": "Copper Bronze",
+            "swatch": "copper_bronze",
+            "image": "copper_bronze"
+        },
+        {
+            "type": "paintwork",
+            "area": "metallic",
+            "name": "Fortana Red",
+            "swatch": "fortana_red",
+            "image": "fortana_red"
+        },
+        {
+            "type": "paintwork",
+            "area": "metallic",
+            "name": "Indium Grey",
+            "swatch": "indium_grey",
+            "image": "indium_grey"
+        },
+        {
+            "type": "paintwork",
+            "area": "metallic",
+            "name": "Ravenna Blue",
+            "swatch": "ravenna_blue",
+            "image": "ravenna_blue"
+        },
+        {
+            "type": "paintwork",
+            "area": "metallic",
+            "name": "Starlight Blue",
+            "swatch": "starlight_blue",
+            "image": "starlight_blue"
+        },
+        {
+            "type": "paintwork",
+            "area": "metallic",
+            "name": "Reflex Silver",
+            "swatch": "reflex_silver",
+            "image": "reflex_silver"
+        },
+        {
+            "type": "paintwork",
+            "area": "metallic",
+            "name": "CHERRY RED",
+            "swatch": "cherry_red",
+            "image": "cherry_red"
+        },
+        {
+            "type": "paintwork",
+            "area": "metallic",
+            "name": "BAY LEAF GREEN",
+            "swatch": "bay_leaf_green",
+            "image": "bay_leaf_green"
+        },
+        {
+            "type": "paintwork",
+            "area": "metallic",
+            "name": "MOJAVE GREEN",
+            "swatch": "mojave_green",
+            "image": "mojave_green"
+        },
+        {
+            "type": "paintwork",
+            "area": "two-tone-top",
+            "name": "CANDY WHITE",
+            "swatch": "candy_white",
+            "image": "candy_white"
+        },
+        {
+            "type": "paintwork",
+            "area": "two-tone-top",
+            "name": "REFLEX SILVER",
+            "swatch": "reflex_silver",
+            "image": "reflex_silver"
+        },
+        {
+            "type": "paintwork",
+            "area": "two-tone-bottom",
+            "name": "CHERRY RED",
+            "swatch": "cherry_red",
+            "image": "cherry_red"
+        },
+        {
+            "type": "paintwork",
+            "area": "two-tone-bottom",
+            "name": "BRIGHT ORANGE",
+            "swatch": "bright_orange",
+            "image": "bright_orange"
+        },
+        {
+            "type": "paintwork",
+            "area": "two-tone-bottom",
+            "name": "RAVENNA BLUE",
+            "swatch": "ravenna_blue",
+            "image": "ravenna_blue"
+        },
+        {
+            "type": "paintwork",
+            "area": "two-tone-bottom",
+            "name": "ICE BLUE",
+            "swatch": "ice_blue",
+            "image": "ice_blue"
+        },
+        {
+            "type": "paintwork",
+            "area": "two-tone-bottom",
+            "name": "BAY LEAF GREEN",
+            "swatch": "bay_leaf_green",
+            "image": "bay_leaf_green"
+        },
+        {
+            "type": "paintwork",
+            "area": "two-tone-bottom",
+            "name": "COPPER BRONZE",
+            "swatch": "copper_bronze",
+            "image": "copper_bronze"
+        },
+        {
+            "type": "paintwork",
+            "area": "two-tone-bottom",
+            "name": "INDIUM GREY",
+            "swatch": "indium_grey",
+            "image": "indium_grey"
+        },
+        {
+            "type": "wheels",
+            "area": "18-inch",
+            "name": "DTM",
+            "brand": "VW",
+            "swatch": "DTM",
+            "image": "DTM"
+        },
+        {
+            "type": "wheels",
+            "area": "20-inch",
+            "name": "DTM",
+            "brand": "VW",
+            "swatch": "DTM",
+            "image": "DTM"
+        },
+        {
+            "type": "wheels",
+            "area": "18-inch",
+            "name": "Phantom",
+            "brand": "VW",
+            "swatch": "Phantom",
+            "image": "Phantom"
+        },
+        {
+            "type": "wheels",
+            "area": "20-inch",
+            "name": "Paradox",
+            "brand": "VW",
+            "swatch": "Paradox",
+            "image": "Paradox"
+        },
+        {
+            "type": "wheels",
+            "area": "20-inch",
+            "name": "Spectre",
+            "brand": "VW",
+            "swatch": "Spectre",
+            "image": "Spectre"
+        },
+        {
+            "type": "wheels",
+            "area": "18-inch",
+            "name": "Turismo",
+            "brand": "VW",
+            "swatch": "Turismo",
+            "image": "Turismo"
+        },
+        {
+            "type": "wheels",
+            "area": "20-inch",
+            "name": "Turismo",
+            "brand": "VW",
+            "swatch": "Turismo",
+            "image": "Turismo"
+        },
+        {
+            "type": "wheels",
+            "area": "18-inch",
+            "name": "Wraith",
+            "brand": "VW",
+            "swatch": "Wraith",
+            "image": "Wraith"
+        },
+        {
+            "type": "wheels",
+            "area": "20-inch",
+            "name": "Wraith",
+            "brand": "VW",
+            "swatch": "Wraith",
+            "image": "Wraith"
+        },
+        {
+            "type": "interior",
+            "oven_grill": true,
+            "area": "wood",
+            "name": "Dark Stripe",
+            "swatch": "dark_stripe",
+            "image": "dark_stripe"
+        },
+        {
+            "type": "interior",
+            "oven_grill": false,
+            "area": "wood",
+            "name": "Dark Stripe",
+            "swatch": "dark_stripe",
+            "image": "dark_stripe"
+        },
+        {
+            "type": "interior",
+            "oven_grill": true,
+            "area": "wood",
+            "name": "Graphite Wood",
+            "swatch": "graphite",
+            "image": "graphite"
+        },
+        {
+            "type": "interior",
+            "oven_grill": false,
+            "area": "wood",
+            "name": "Graphite Wood",
+            "swatch": "graphite",
+            "image": "graphite"
+        },
+        {
+            "type": "interior",
+            "oven_grill": true,
+            "area": "wood",
+            "name": "Santa Fe",
+            "swatch": "santa_fe",
+            "image": "santa_fe"
+        },
+        {
+            "type": "interior",
+            "oven_grill": false,
+            "area": "wood",
+            "name": "Santa Fe",
+            "swatch": "santa_fe",
+            "image": "santa_fe"
+        },
+        {
+            "type": "interior",
+            "oven_grill": true,
+            "area": "wood",
+            "name": "Whitewood",
+            "swatch": "white",
+            "image": "white"
+        },
+        {
+            "type": "interior",
+            "oven_grill": false,
+            "area": "wood",
+            "name": "Whitewood",
+            "swatch": "white",
+            "image": "white"
+        },
+        {
+            "type": "interior",
+            "oven_grill": true,
+            "area": "gloss",
+            "name": "Light Grey",
+            "swatch": "light_grey",
+            "image": "light_grey"
+        },
+        {
+            "type": "interior",
+            "oven_grill": false,
+            "area": "gloss",
+            "name": "Light Grey",
+            "swatch": "light_grey",
+            "image": "light_grey"
+        },
+        {
+            "type": "interior",
+            "oven_grill": true,
+            "area": "gloss",
+            "name": "Dark Grey",
+            "swatch": "dark_grey",
+            "image": "dark_grey"
+        },
+        {
+            "type": "interior",
+            "oven_grill": false,
+            "area": "gloss",
+            "name": "Dark Grey",
+            "swatch": "dark_grey",
+            "image": "dark_grey"
+        },
+        {
+            "type": "interior",
+            "oven_grill": true,
+            "area": "gloss",
+            "name": "Chilli Red",
+            "swatch": "chilli_red",
+            "image": "chilli_red"
+        },
+        {
+            "type": "interior",
+            "oven_grill": false,
+            "area": "gloss",
+            "name": "Chilli Red",
+            "swatch": "chilli_red",
+            "image": "chilli_red"
+        },
+        {
+            "type": "interior",
+            "oven_grill": true,
+            "area": "gloss",
+            "name": "White",
+            "swatch": "white",
+            "image": "white"
+        },
+        {
+            "type": "interior",
+            "oven_grill": false,
+            "area": "gloss",
+            "name": "White",
+            "swatch": "white",
+            "image": "white"
+        },
+        {
+            "type": "interior",
+            "oven_grill": true,
+            "area": "gloss",
+            "name": "Black",
+            "swatch": "black",
+            "image": "black"
+        },
+        {
+            "type": "interior",
+            "oven_grill": false,
+            "area": "gloss",
+            "name": "Black",
+            "swatch": "black",
+            "image": "black"
+        },
+        {
+            "type": "interior",
+            "oven_grill": true,
+            "area": "gloss",
+            "name": "Green",
+            "swatch": "green",
+            "image": "green"
+        },
+        {
+            "type": "interior",
+            "oven_grill": false,
+            "area": "gloss",
+            "name": "Green",
+            "swatch": "green",
+            "image": "green"
+        },
+        {
+            "type": "interior",
+            "oven_grill": true,
+            "area": "solid",
+            "name": "Denim Blue",
+            "swatch": "denim_blue",
+            "image": "denim_blue"
+        },
+        {
+            "type": "interior",
+            "oven_grill": false,
+            "area": "solid",
+            "name": "Denim Blue",
+            "swatch": "denim_blue",
+            "image": "denim_blue"
+        },
+        {
+            "type": "interior",
+            "oven_grill": true,
+            "area": "solid",
+            "name": "Fjord Green",
+            "swatch": "fjord_green",
+            "image": "fjord_green"
+        },
+        {
+            "type": "interior",
+            "oven_grill": false,
+            "area": "solid",
+            "name": "Fjord Green",
+            "swatch": "fjord_green",
+            "image": "fjord_green"
+        },
+        {
+            "type": "interior",
+            "oven_grill": true,
+            "area": "solid",
+            "name": "Matt Black",
+            "swatch": "matt_black",
+            "image": "matt_black"
+        },
+        {
+            "type": "interior",
+            "oven_grill": false,
+            "area": "solid",
+            "name": "Matt Black",
+            "swatch": "matt_black",
+            "image": "matt_black"
+        },
+        {
+            "type": "interior",
+            "oven_grill": true,
+            "area": "solid",
+            "name": "BLUE GREY METALLIC",
+            "swatch": "blue_grey_metallic",
+            "image": "blue_grey_metallic"
+        },
+        {
+            "type": "interior",
+            "oven_grill": false,
+            "area": "solid",
+            "name": "BLUE GREY METALLIC",
+            "swatch": "blue_grey_metallic",
+            "image": "blue_grey_metallic"
+        },
+        {
+            "type": "trim",
+            "oven_grill": true,
+            "area": "default",
+            "name": "Black",
+            "swatch": "black",
+            "image": "black"
+        },
+        {
+            "type": "trim",
+            "oven_grill": false,
+            "area": "default",
+            "name": "Black",
+            "swatch": "black",
+            "image": "black"
+        },
+        {
+            "type": "trim",
+            "oven_grill": true,
+            "area": "default",
+            "name": "Light Grey",
+            "swatch": "light_grey",
+            "image": "light_grey"
+        },
+        {
+            "type": "trim",
+            "oven_grill": false,
+            "area": "default",
+            "name": "Light Grey",
+            "swatch": "light_grey",
+            "image": "light_grey"
+        },
+        {
+            "type": "trim",
+            "oven_grill": true,
+            "area": "default",
+            "name": "Dark Grey",
+            "swatch": "dark_grey",
+            "image": "dark_grey"
+        },
+        {
+            "type": "trim",
+            "oven_grill": false,
+            "area": "default",
+            "name": "Dark Grey",
+            "swatch": "dark_grey",
+            "image": "dark_grey"
+        },
+        {
+            "type": "trim",
+            "oven_grill": true,
+            "area": "default",
+            "name": "White",
+            "swatch": "white",
+            "image": "white"
+        },
+        {
+            "type": "trim",
+            "oven_grill": false,
+            "area": "default",
+            "name": "White",
+            "swatch": "white",
+            "image": "white"
+        },
+        {
+            "type": "trim",
+            "oven_grill": true,
+            "area": "default",
+            "name": "Blue",
+            "swatch": "blue",
+            "image": "blue"
+        },
+        {
+            "type": "trim",
+            "oven_grill": false,
+            "area": "default",
+            "name": "Blue",
+            "swatch": "blue",
+            "image": "blue"
+        },
+        {
+            "type": "trim",
+            "oven_grill": true,
+            "area": "default",
+            "name": "Red",
+            "swatch": "red",
+            "image": "red"
+        },
+        {
+            "type": "trim",
+            "oven_grill": false,
+            "area": "default",
+            "name": "Red",
+            "swatch": "red",
+            "image": "red"
+        },
+        {
+            "type": "trim",
+            "oven_grill": true,
+            "area": "default",
+            "name": "Orange",
+            "swatch": "orange",
+            "image": "orange"
+        },
+        {
+            "type": "trim",
+            "oven_grill": false,
+            "area": "default",
+            "name": "Orange",
+            "swatch": "orange",
+            "image": "orange"
+        },
+        {
+            "type": "trim",
+            "oven_grill": true,
+            "area": "default",
+            "name": "Lime",
+            "swatch": "lime",
+            "image": "lime"
+        },
+        {
+            "type": "trim",
+            "oven_grill": false,
+            "area": "default",
+            "name": "Lime",
+            "swatch": "lime",
+            "image": "lime"
+        },
+        {
+            "type": "trim",
+            "oven_grill": true,
+            "area": "default",
+            "name": "Purple",
+            "swatch": "purple",
+            "image": "purple"
+        },
+        {
+            "type": "trim",
+            "oven_grill": false,
+            "area": "default",
+            "name": "Purple",
+            "swatch": "purple",
+            "image": "purple"
+        },
+        {
+            "type": "worktops",
+            "area": "default",
+            "name": "Black Marble",
+            "swatch": "black_marble",
+            "image": "black_marble"
+        },
+        {
+            "type": "worktops",
+            "area": "default",
+            "name": "Black Sparkle",
+            "swatch": "black_sparkle",
+            "image": "black_sparkle"
+        },
+        {
+            "type": "worktops",
+            "area": "default",
+            "name": "White Sparkle",
+            "swatch": "white_sparkle",
+            "image": "white_sparkle"
+        },
+        {
+            "type": "worktops",
+            "area": "default",
+            "name": "Slate",
+            "swatch": "slate",
+            "image": "slate"
+        },
+        {
+            "type": "worktops",
+            "area": "default",
+            "name": "White Marble",
+            "swatch": "white_marble",
+            "image": "white_marble"
+        },
+        {
+            "type": "worktops",
+            "area": "default",
+            "name": "Solid Oak",
+            "swatch": "solid_oak",
+            "image": "solid_oak"
+        },
+        {
+            "type": "worktops",
+            "area": "default",
+            "name": "Putinella",
+            "swatch": "putinella",
+            "image": "putinella"
+        },
+        {
+            "type": "floors",
+            "area": "default",
+            "name": "Lupin Blue",
+            "swatch": "lupin_blue",
+            "image": "lupin_blue"
+        },
+        {
+            "type": "floors",
+            "area": "default",
+            "name": "Black Coal",
+            "swatch": "black_coal",
+            "image": "black_coal"
+        },
+        {
+            "type": "floors",
+            "area": "default",
+            "name": "Midnight Blue",
+            "swatch": "midnight_blue",
+            "image": "midnight_blue"
+        },
+        {
+            "type": "floors",
+            "area": "default",
+            "name": "Graphite",
+            "swatch": "graphite_pearl",
+            "image": "graphite_pearl"
+        },
+        {
+            "type": "floors",
+            "area": "default",
+            "name": "Grey Spec",
+            "swatch": "grey_spec",
+            "image": "grey_spec"
+        },
+        {
+            "type": "floors",
+            "area": "default",
+            "name": "Honey Limed Ash",
+            "swatch": "honey_limed_ash",
+            "image": "honey_limed_ash"
+        },
+        {
+            "type": "floors",
+            "area": "default",
+            "name": "Silver Oak",
+            "swatch": "silver_oak",
+            "image": "silver_oak"
+        },
+        {
+            "type": "floors",
+            "area": "default",
+            "name": "Classic Oak",
+            "swatch": "classic_oak",
+            "image": "classic_oak"
+        },
+        {
+            "type": "upholstery",
+            "area": "default",
+            "name": "Startline Grid",
+            "image": "highline_brick",
+            "swatch": "highline_brick"
+        },
+        {
+            "type": "upholstery",
+            "area": "default",
+            "name": "Highline Brick",
+            "image": "startline_brick",
+            "swatch": "startline_grid"
+        },
+        {
+            "type": "upholstery",
+            "area": "default",
+            "name": "Black",
+            "image": "black_black",
+            "swatch": "black_black"
+        },
+        {
+            "type": "upholstery",
+            "area": "default",
+            "name": "Black / Tan",
+            "image": "black_tan",
+            "swatch": "black_tan"
+        },
+        {
+            "type": "upholstery",
+            "area": "default",
+            "name": "Black / Blue",
+            "image": "black_blue",
+            "swatch": "black_blue"
+        },
+        {
+            "type": "upholstery",
+            "area": "default",
+            "name": "Grey",
+            "image": "grey_grey",
+            "swatch": "grey_grey"
+        },
+        {
+            "type": "upholstery",
+            "area": "default",
+            "name": "Grey / Black",
+            "image": "grey_black",
+            "swatch": "grey_black"
+        },
+        {
+            "type": "upholstery",
+            "area": "default",
+            "name": "Grey / Tan",
+            "image": "grey_tan",
+            "swatch": "grey_tan"
+        },
+        {
+            "type": "upholstery",
+            "area": "default",
+            "name": "Grey / Cream",
+            "image": "grey_cream",
+            "swatch": "grey_cream"
+        },
+        {
+            "type": "upholstery",
+            "area": "default",
+            "name": "Grey / Blue",
+            "image": "grey_blue",
+            "swatch": "grey_blue"
+        },
+        {
+            "type": "upholstery",
+            "area": "default",
+            "name": "Tan / Red",
+            "image": "tan_red",
+            "swatch": "tan_red"
+        },
+        {
+            "type": "upholstery",
+            "area": "default",
+            "name": "Cream",
+            "image": "cream_cream",
+            "swatch": "cream_cream"
+        },
+        {
+            "type": "upholstery",
+            "area": "default",
+            "name": "Cream / Black",
+            "image": "cream_black",
+            "swatch": "cream_black"
+        },
+        {
+            "type": "upholstery",
+            "area": "default",
+            "name": "Cream / Grey",
+            "image": "cream_grey",
+            "swatch": "cream_grey"
+        },
+        {
+            "type": "upholstery",
+            "area": "default",
+            "name": "Cream / Tan",
+            "image": "cream_tan",
+            "swatch": "cream_tan"
+        },
+        {
+            "type": "upholstery",
+            "area": "default",
+            "name": "Cream / Red",
+            "image": "cream_red",
+            "swatch": "cream_red"
+        },
+        {
+            "type": "upholstery",
+            "area": "default",
+            "name": "Red / Black",
+            "image": "red_black",
+            "swatch": "red_black"
+        },
+        {
+            "type": "upholstery",
+            "area": "default",
+            "name": "Red / Grey",
+            "image": "red_grey",
+            "swatch": "red_grey"
+        },
+        {
+            "type": "upholstery",
+            "area": "default",
+            "name": "Blue / Tan",
+            "image": "blue_tan",
+            "swatch": "blue_tan"
+        },
+        {
+            "type": "upholstery",
+            "area": "default",
+            "name": "Blue / Cream",
+            "image": "blue_cream",
+            "swatch": "blue_cream"
+        },
+        {
+            "type": "gadgets",
+            "area": "oven_or_door",
+            "oven_grill": false,
+            "name": "Tambour Door"
+        },
+        {
+            "type": "gadgets",
+            "area": "oven_or_door",
+            "oven_grill": true,
+            "name": "Oven / Grill Combo"
+        },
+        {
+            "type": "gadgets",
+            "area": "default",
+            "name": "Rear Speakers"
+        },
+        {
+            "type": "gadgets",
+            "area": "default",
+            "name": "Door Mounted Table"
+        },
+        {
+            "type": "gadgets",
+            "area": "default",
+            "name": "Shower Point Attachment"
+        },
+        {
+            "type": "gadgets",
+            "area": "default",
+            "name": "Diesel Heater",
+            "image": "dieselheater"
+        },
+        {
+            "type": "gadgets",
+            "area": "default",
+            "name": "TV / DVD"
+        },
+        {
+            "type": "gadgets",
+            "area": "default",
+            "name": "TV Soundbar"
+        },
+        {
+            "type": "gadgets",
+            "area": "default",
+            "name": "4G Shark Fin Wifi"
+        },
+        {
+            "type": "gadgets",
+            "area": "default",
+            "name": "Extra 240V Sockets"
+        },
+        {
+            "type": "gadgets",
+            "area": "default",
+            "name": "Extra 12V Sockets"
+        },
+        {
+            "type": "gadgets",
+            "area": "default",
+            "name": "Extra USB Port"
+        },
+        {
+            "type": "gadgets",
+            "area": "default",
+            "name": "VW Reversing Camera"
+        },
+        {
+            "type": "gadgets",
+            "area": "default",
+            "name": "Reading Roof Light"
+        },
+        {
+            "type": "exterior",
+            "area": "sidebars",
+            "name": "Stainless Sidebars",
+            "image": "silver_sidebar"
+        },
+        {
+            "type": "exterior",
+            "area": "sidebars",
+            "name": "Black Sidebars",
+            "image": "black_sidebar"
+        },
+        {
+            "type": "exterior",
+            "area": "sidebars",
+            "name": "Stainless Sidesteps",
+            "image": "silver_sidestep"
+        },
+        {
+            "type": "exterior",
+            "area": "sidebars",
+            "name": "Black Sidesteps",
+            "image": "black_sidestep"
+        },
+        {
+            "type": "exterior",
+            "area": "rails",
+            "name": "Multirail",
+            "image": null
+        },
+        {
+            "type": "exterior",
+            "area": "rails",
+            "name": "Windout Awning",
+            "image": "windout_awning"
+        },
+        {
+            "type": "exterior",
+            "area": "bike",
+            "name": "Bike Rack",
+            "image": "bikerack"
+        },
+        {
+            "type": "exterior",
+            "area": "towbar",
+            "name": "7 pin Fixed Towbar"
+        },
+        {
+            "type": "exterior",
+            "area": "towbar",
+            "name": "7 pin Detachable Towbar"
+        },
+        {
+            "type": "exterior",
+            "area": "towbar",
+            "name": "13 pin Fixed Towbar"
+        },
+        {
+            "type": "exterior",
+            "area": "towbar",
+            "name": "13 pin Detachable Towbar"
+        },
+        {
+            "type": "exterior",
+            "area": "lip",
+            "name": "Front Sport Splitter",
+            "image": "front_splitter"
+        },
+        {
+            "type": "exterior",
+            "area": "lip",
+            "name": "Front Lower Lip",
+            "image": "lower_lip"
+        },
+        {
+            "type": "exterior",
+            "area": "blackGlossGrills",
+            "name": "Black Gloss Grills and badges",
+            "image": "black_gloss_grills"
+        },
+        {
+            "type": "exterior",
+            "area": "spoiler",
+            "name": "Rear Spoiler Black",
+            "image": "spoiler_black"
+        },
+        {
+            "type": "exterior",
+            "area": "spoiler",
+            "name": "Rear Spoiler White",
+            "image": "spoiler_white"
+        },
+        {
+            "type": "exterior",
+            "area": "spoiler",
+            "name": "Custom Colour Rear Spoiler",
+            "image": "spoiler_custom"
+        },
+        {
+            "type": "exterior",
+            "area": "roof",
+            "name": "Thule Roof Rails"
+        },
+        {
+            "type": "exterior",
+            "area": "roof",
+            "name": "Karitech Easy Load"
+        },
+        {
+            "type": "exterior",
+            "area": "solar",
+            "name": "Solar Panels 150W"
+        },
+        {
+            "type": "exterior",
+            "area": "solar",
+            "name": "Solar Panels 200W"
+        },
+        {
+            "type": "exterior",
+            "area": "solar",
+            "name": "Solar Panels 270W"
+        },
+        {
+            "type": "roof",
+            "area": "colour",
+            "name": "Standard Black Roof",
+            "image": "black"
+        },
+        {
+            "type": "roof",
+            "area": "colour",
+            "name": "Standard White Roof",
+            "image": "white"
+        },
+        {
+            "type": "roof",
+            "area": "colour",
+            "name": "Ravenna Blue",
+            "image": "ravenna_blue"
+        },
+        {
+            "type": "roof",
+            "area": "colour",
+            "name": "Starlight Blue",
+            "image": "starlight_blue"
+        },
+        {
+            "type": "roof",
+            "area": "colour",
+            "name": "Reflex Silver",
+            "image": "reflex_silver"
+        },
+        {
+            "type": "roof",
+            "area": "colour",
+            "name": "Mojave Beige",
+            "image": "mojave_beige"
+        },
+        {
+            "type": "roof",
+            "area": "colour",
+            "name": "Indium Grey",
+            "image": "indium_grey"
+        },
+        {
+            "type": "roof",
+            "area": "colour",
+            "name": "Fortana Red",
+            "image": "fortana_red"
+        },
+        {
+            "type": "roof",
+            "area": "colour",
+            "name": "Copper Bronze",
+            "image": "copper_bronze"
+        },
+        {
+            "type": "roof",
+            "area": "colour",
+            "name": "Cherry Red",
+            "image": "cherry_red"
+        },
+        {
+            "type": "roof",
+            "area": "colour",
+            "name": "Bay Leaf Green",
+            "image": "bay_leaf_green"
+        },
+        {
+            "type": "roof",
+            "area": "colour",
+            "name": "Sunny Yellow",
+            "image": "sunny_yellow"
+        },
+        {
+            "type": "roof",
+            "area": "colour",
+            "name": "Pure Grey",
+            "image": "pure_grey"
+        },
+        {
+            "type": "roof",
+            "area": "colour",
+            "name": "Industrial Green",
+            "image": "industrial_green"
+        },
+        {
+            "type": "roof",
+            "area": "colour",
+            "name": "Lime Green",
+            "image": "lime_green"
+        },
+        {
+            "type": "roof",
+            "area": "colour",
+            "name": "Stone Blue",
+            "image": "stone_blue"
+        },
+        {
+            "type": "roof",
+            "area": "colour",
+            "name": "Ice Blue",
+            "image": "ice_blue"
+        },
+        {
+            "type": "roof",
+            "area": "colour",
+            "name": "Flannel Grey",
+            "image": "flannel_grey"
+        },
+        {
+            "type": "roof",
+            "area": "colour",
+            "name": "Fir Green",
+            "image": "fir_green"
+        },
+        {
+            "type": "roof",
+            "area": "colour",
+            "name": "Danish Blue",
+            "image": "danish_blue"
+        },
+        {
+            "type": "roof",
+            "area": "colour",
+            "name": "Chrome Yellow",
+            "image": "chrome_yellow"
+        },
+        {
+            "type": "roof",
+            "area": "colour",
+            "name": "Candy White",
+            "image": "candy_white"
+        },
+        {
+            "type": "roof",
+            "area": "colour",
+            "name": "Bright Orange",
+            "image": "bright_orange"
+        },
+        {
+            "type": "roof",
+            "area": "colour",
+            "name": "Blue Lilac",
+            "image": "blue_lilac"
+        },
+        {
+            "type": "roof",
+            "area": "colour",
+            "name": "Ascot Grey",
+            "image": "ascot_grey"
+        },
+        {
+            "type": "roof",
+            "area": "tent",
+            "name": "Scenic Tent",
+            "image": "scenic_tent"
+        },
+        {
+            "type": "roof",
+            "area": "tent",
+            "name": "Standard Tent",
+            "image": "standard_tent"
+        }
+    ]
+}

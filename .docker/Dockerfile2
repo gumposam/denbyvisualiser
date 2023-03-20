@@ -1,0 +1,9 @@
+FROM nginx:1.23.2
+
+WORKDIR /var/www/html
+
+COPY ./public ./public
+
+COPY /nginx/visualiser.conf /etc/nginx/conf.d/
+
+EXPOSE 4000

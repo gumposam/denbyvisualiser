@@ -1,0 +1,8 @@
+/node_modules
+/tests
+/vendor
+/.github
+/.gitignore
+# TODO remove line below
+# package-lock.json
+README.md
