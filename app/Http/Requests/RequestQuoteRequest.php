@@ -14,6 +14,7 @@ class RequestQuoteRequest extends FormRequest
             'last_name' => ['required'],
             'email' => ['required', 'email'],
             'newsletter' => ['boolean'],
+            'detailedQuoteDisabled' => [ 'boolean'],
             'visualiser' => ['array'],
         ];
     }

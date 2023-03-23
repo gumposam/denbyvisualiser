@@ -19,9 +19,11 @@ class RequestQuoteController extends Controller
             'contactNumber' => $request->input('contact_number'),
             'additional_information' => $request->input('additional_information'),
             'visualiser' => $request->input('visualiser'),
+            'detailedQuoteDisabled' =>  $request->input('detailedQuoteDisabled'),
         ]);
+   
 
-        Mail::to('sales@denbycampervans.com')
+        Mail::to('matt@plain.black')
             ->send(new QuoteRequestedMail($data));
 
         return redirect()->back();

@@ -10,6 +10,6 @@ class RequestQuoteData extends DataTransferObject
     public string $lastName;
     public string $email;
     public ?string $contactNumber = null;
-
+    public string $detailedQuoteDisabled;
     public array $visualiser;
 }

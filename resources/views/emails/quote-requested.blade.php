@@ -5,8 +5,10 @@
 @endphp
 
 @component('mail::message')
-# Quote Requested
-
+# Quote Requested 
+@if(!$quote->detailedQuoteDisabled)
+#  Please send detailed quote
+@endif
 A quote has been requested from: {{ $quote->firstName }} {{ $quote->lastName }} ({{ $quote->email }}).
 
 @if($quote->contactNumber)

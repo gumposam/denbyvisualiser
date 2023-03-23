@@ -107,6 +107,29 @@
           </p>
         </div>
 
+         <label class="text-white w-full text-xs font-bold block py-4 tracking-wide">Would you like us to send you a detailed quote?</label>
+
+        <div class="flex items-center">
+          <p class="text-white text-xs font-bold tracking-wide">
+            Yes
+          </p>
+          <HeadlessSwitch
+            v-model="detailedQuoteDisabled"
+            :class="detailedQuoteDisabled ? 'bg-slate-300' : 'bg-green-400'"
+            class="mx-4 relative inline-flex h-[38px] w-[74px] shrink-0 cursor-pointer rounded-full border-2 border-transparent transition-colors duration-200 ease-in-out focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75"
+          >
+            <span class="sr-only">Use setting</span>
+            <span
+              aria-hidden="true"
+              :class="detailedQuoteDisabled ? 'translate-x-9' : 'translate-x-0'"
+              class="pointer-events-none inline-block ml-[3px] mt-[3px] h-[28px] w-[28px] transform rounded-full bg-white shadow-lg ring-0 transition duration-200 ease-in-out"
+            />
+          </HeadlessSwitch>
+          <p class="text-white text-xs font-bold tracking-wide">
+            Nah
+          </p>
+        </div>
+
 
         <button
           type="submit"
@@ -140,6 +163,7 @@ export default {
             contact_number: null,
             additional_information: null,
             newsletterDisabled: true,
+            detailedQuoteDisabled: true,
             errors: {},
             sent: false,
         }
@@ -209,6 +233,7 @@ export default {
                 contact_number: this.contact_number,
                 additional_information: this.additional_information,
                 newsletter: this.newsletterEnabled,
+                detailedQuoteDisabled: this.detailedQuoteDisabled,
                 visualiser: this.visualiser,
             }, {onError, onSuccess})
         }
